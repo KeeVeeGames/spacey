@@ -1,0 +1,16 @@
+C:\Projects\VisualStudio\spacey\spacey\spacey\bin\Debug\net5.0\spacey.exe
+C:\Projects\VisualStudio\spacey\spacey\spacey\bin\Debug\net5.0\spacey.deps.json
+C:\Projects\VisualStudio\spacey\spacey\spacey\bin\Debug\net5.0\spacey.runtimeconfig.json
+C:\Projects\VisualStudio\spacey\spacey\spacey\bin\Debug\net5.0\spacey.runtimeconfig.dev.json
+C:\Projects\VisualStudio\spacey\spacey\spacey\bin\Debug\net5.0\spacey.dll
+C:\Projects\VisualStudio\spacey\spacey\spacey\bin\Debug\net5.0\ref\spacey.dll
+C:\Projects\VisualStudio\spacey\spacey\spacey\bin\Debug\net5.0\spacey.pdb
+C:\Projects\VisualStudio\spacey\spacey\spacey\obj\Debug\net5.0\spacey.csproj.AssemblyReference.cache
+C:\Projects\VisualStudio\spacey\spacey\spacey\obj\Debug\net5.0\spacey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\VisualStudio\spacey\spacey\spacey\obj\Debug\net5.0\spacey.AssemblyInfoInputs.cache
+C:\Projects\VisualStudio\spacey\spacey\spacey\obj\Debug\net5.0\spacey.AssemblyInfo.cs
+C:\Projects\VisualStudio\spacey\spacey\spacey\obj\Debug\net5.0\spacey.csproj.CoreCompileInputs.cache
+C:\Projects\VisualStudio\spacey\spacey\spacey\obj\Debug\net5.0\spacey.dll
+C:\Projects\VisualStudio\spacey\spacey\spacey\obj\Debug\net5.0\ref\spacey.dll
+C:\Projects\VisualStudio\spacey\spacey\spacey\obj\Debug\net5.0\spacey.pdb
+C:\Projects\VisualStudio\spacey\spacey\spacey\obj\Debug\net5.0\spacey.genruntimeconfig.cache
